@@ -1,0 +1,3 @@
+exchangeratesapi:
+  url: https://api.exchangeratesapi.io
+  latest: /latest
